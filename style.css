@@ -1,0 +1,31 @@
+body{
+    background-color: #eeeeee;
+}
+.bg-blue{
+background-color: #200086;
+}
+
+
+.color-with{
+    stroke:white 
+}
+
+.nav-item a{
+    color: white !important;
+}
+
+footer div {
+    background-color: #200086;
+    height: 9vh;
+    }
+    
+   .color-p{
+    color: aliceblue;
+    
+   }
+
+   .color-blue{
+    color: #200086;
+   }
+
+  
